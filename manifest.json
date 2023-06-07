@@ -1,0 +1,26 @@
+{
+	"manifest_version": 3,
+	"name": "Nature theme",
+	"description": "Theme to new tab",
+	"version": "1.0",
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	},
+	"permissions": [
+		"activeTab",
+		"scripting",
+		"topSites",
+		"background",
+		"search",
+		"bookmarks"
+	],
+	"content_scripts": [
+		{
+			"js": ["index.js"],
+			"matches": ["<all_urls>"]
+		}
+	],
+	"background": {
+		"service_worker": "scripts/background.js"
+	}
+}
