@@ -1,5 +1,4 @@
 # Nature Chrome Extension
-![GitHub](https://img.shields.io/github/license/jaianeoliveira/nature-chrome-extension)
 ![GitHub manifest version (path)](https://img.shields.io/github/manifest-json/v/jaianeoliveira/nature-chrome-extension)
 
 ![scrnli_20_06_2023_14-47-40](https://github.com/JaianeOliveira/nature-chrome-theme/assets/82323559/f3cc49a6-d709-49c8-b635-9798b06b52fd)
