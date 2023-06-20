@@ -1,6 +1,6 @@
 # Nature Chrome Extension
-![GitHub](https://img.shields.io/github/license/jaianeoliveira/nature-chrome-theme)
-![GitHub manifest version (path)](https://img.shields.io/github/manifest-json/v/jaianeoliveira/nature-chrome-theme)
+![GitHub](https://img.shields.io/github/license/jaianeoliveira/nature-chrome-extension)
+![GitHub manifest version (path)](https://img.shields.io/github/manifest-json/v/jaianeoliveira/nature-chrome-extension)
 
 ![scrnli_20_06_2023_14-47-40](https://github.com/JaianeOliveira/nature-chrome-theme/assets/82323559/f3cc49a6-d709-49c8-b635-9798b06b52fd)
 
@@ -23,7 +23,9 @@ Pronto, sua extensão já está ativa.
 ### Licença
 [MIT](https://github.com/JaianeOliveira/nature-chrome-theme/blob/main/LICENSE.md)
 
-*Inspirado no [Nashira Theme](https://github.com/closebox73/UrsaMajor/#bear-nashira-theme) para Conky.*
+### Inspirado em
+- *[Nashira Theme](https://github.com/closebox73/UrsaMajor/#bear-nashira-theme)*
+  
 ##
 ###### *Copyright (c) 2023 [Jaiane Oliveira](https://github.com/jaianeoliveira)* - *Aprenda a construir suas próprias extensões acessando a [documentação oficial](https://developer.chrome.com/docs/extensions/mv3/).*
 
