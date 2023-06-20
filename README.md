@@ -20,8 +20,8 @@ Extensão para google chrome que altera a aparência da nova guia.
 Pronto, sua extensão já está ativa.
 
 ## Licença
-
+[MIT](https://github.com/JaianeOliveira/nature-chrome-theme/blob/main/LICENSE.md)
 
 ##
-###### *Copyright (c) [Jaiane Oliveira, 2023](https://github.com/jaianeoliveira)* - *Aprenda a construir suas próprias extensões acessando a [documentação oficial](https://developer.chrome.com/docs/extensions/mv3/).*
+###### *Copyright (c) 2023 [Jaiane Oliveira](https://github.com/jaianeoliveira)* - *Aprenda a construir suas próprias extensões acessando a [documentação oficial](https://developer.chrome.com/docs/extensions/mv3/).*
 
