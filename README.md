@@ -19,9 +19,11 @@ Extensão para google chrome que altera a aparência da nova guia.
 
 Pronto, sua extensão já está ativa.
 
-## Licença
+## 
+### Licença
 [MIT](https://github.com/JaianeOliveira/nature-chrome-theme/blob/main/LICENSE.md)
 
+*Inspirado no [Nashira Theme](https://github.com/closebox73/UrsaMajor/#bear-nashira-theme) para Conky.*
 ##
 ###### *Copyright (c) 2023 [Jaiane Oliveira](https://github.com/jaianeoliveira)* - *Aprenda a construir suas próprias extensões acessando a [documentação oficial](https://developer.chrome.com/docs/extensions/mv3/).*
 
